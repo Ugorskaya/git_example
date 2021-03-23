@@ -1,7 +1,7 @@
 # Начало работы с GIT
 При выполнении задания можно руководствоваться официальным учебником:
 
-Pro Git book
+Pro Git book: https://git-scm.com/book/ru
 
 1. Установите GIT на свой компьютер: https://git-scm.com/download/win
 
